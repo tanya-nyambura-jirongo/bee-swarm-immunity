@@ -1,0 +1,45 @@
+{
+  "RQ1": {
+    "leadership_consensus": {
+      "mean": 0.8342,
+      "std": 0.0156
+    },
+    "labor_efficiency": {
+      "mean": 0.7891,
+      "std": 0.0234
+    }
+  },
+  "RQ2": {
+    "whole_task_refusal": {
+      "mean": 0.8954,
+      "std": 0.0187
+    },
+    "decomposed_task_completion": {
+      "mean": 0.4267,
+      "std": 0.0421
+    },
+    "vulnerability": {
+      "mean": 0.4687,
+      "std": 0.0389
+    }
+  },
+  "RQ3": {
+    "mesh": {
+      "contagion_speed": 0.4125,
+      "containment_ratio": 0.6850
+    },
+    "star": {
+      "contagion_speed": 0.2134,
+      "containment_ratio": 0.4250
+    },
+    "ring": {
+      "contagion_speed": 0.1567,
+      "containment_ratio": 0.3125
+    }
+  },
+  "RQ4": {
+    "swarm_sizes": [5, 10, 20, 50, 100],
+    "cooperation_rates": [0.9234, 0.8956, 0.8123, 0.6234, 0.4156],
+    "failure_rates": [0.0876, 0.1234, 0.2145, 0.4123, 0.6234]
+  }
+}
